@@ -25,12 +25,3 @@ _*Useful extensions for Laravel*_
 [Laravel IDE Helper](https://marketplace.visualstudio.com/items?itemName=georgykurian.laravel-ide-helper)
 
 
-
-```
-"dependencies": {
-        "axios": "^0.26.0",
-        "vue": "^3.2.29",
-        "vue-router": "^4.0.12",
-        "vue-store": "^0.3.1"
-    }
-```
